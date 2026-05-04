@@ -1,0 +1,11 @@
+En internet uno puede compartir cualquier cosa, pero si no verificas lo que ves
+puedes terminar difundiendo información falsa, así mismo recibiendola y eso afecta a todos
+sobre todo cuando se trata de temas importantes como el que vimos en clases en cuanto a la
+"difamación" al presidente Gustavo Petro. Ahí entra la participación ciudadana: No se trata
+solo de hablar, sino de hacerlo con responsabilidad y con información que sea real, cosa que
+también es responsabilidad de los medios de comunicación. En herramientas como Git o GitHub,
+es como ver la aplicación de la idea planteada, pero en el mundo técnico. Todo queda
+registrado, puedes ver quién hizo qué cambio, y hay un orden en la información con la que se
+trabaja, ya que si no lo hubiera, y fuera información o, en este caso, comandos falsos, no 
+se tendría la posibilidad de trabajar, ya que la información no sería útil y no se podrían
+cumplir los objetivos
