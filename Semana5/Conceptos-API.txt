@@ -1,0 +1,6 @@
+Esta ruta crea un punto de acceso en el servidor llamado /reporte mediante el método POST, 
+el cual está diseñado para recibir un dato específico enviado por el usuario llamado mensaje y responder
+automáticamente confirmando la recepción con el texto "Reporte recibido" junto al mensaje original. 
+En una aplicación comunitaria, esta función es fundamental para que los usuarios puedan enviar información de forma directa al sistema, 
+permitiéndoles registrar reportes de problemas vecinales (como fallas en los servicios públicos), enviar quejas 
+o sugerencias de mejora, y notificar alertas o avisos urgentes a los administradores de la comunidad.

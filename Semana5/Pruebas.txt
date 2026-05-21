@@ -1,0 +1,11 @@
+Resultados de las pruebas en el navegador / herramientas de desarrollo:
+
+1. Al ingresar a http://localhost:3000
+   Se muestra en pantalla el texto: "Servidor activo"
+
+2. Al ingresar a http://localhost:3000/saludo
+   Se muestra en pantalla el texto: "Hola comunidad"
+
+3. Al ingresar a http://localhost:3000/mensaje/juan
+   El servidor lee la URL y muestra: "Hola Juan". 
+   Si se cambia "Juan" por otro nombre en la URL, el saludo cambia al nombre escrito.
