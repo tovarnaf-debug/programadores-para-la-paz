@@ -1,0 +1,10 @@
+Es importante que las comunidades puedan construir sus propias herramientas tecnológicas,
+porque así dejan de depender solo de soluciones ajenas que no siempre entienden sus necesidades.
+Cuando una iniciativa ciudadana crea su propia aplicación o servicio,
+puede adaptarlo a su contexto, a su idioma y a los problemas que vive cada día.
+Tecnologías abiertas como Node.js facilitan este camino,
+porque cualquiera puede aprenderlas, usarlas y mejorarlas sin pagar licencias costosas.
+Eso permite que más personas participen, no solo programadores,
+sino también vecinos y organizaciones que quieren aportar a su territorio.
+Además, las herramientas propias generan confianza,
+porque la gente sabe quién las hizo y para qué sirven.
