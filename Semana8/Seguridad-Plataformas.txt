@@ -1,0 +1,5 @@
+1. Usar HTTPS en toda la plataforma: cifra la comunicación entre usuarios y el servidor.
+2. Controlar accesos por roles: cada usuario solo puede ver y hacer lo que le corresponde.
+3. Validar y sanitizar entradas: evita inyecciones de código y datos maliciosos.
+4. Proteger datos personales: almacenar información sensible de forma segura y cumplir normas de privacidad.
+5. Mantener copias de seguridad y actualizaciones: respaldar datos regularmente y aplicar parches de seguridad.

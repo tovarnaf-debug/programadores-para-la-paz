@@ -1,0 +1,5 @@
+1. Usar contraseñas seguras y únicas: una contraseña distinta y fuerte para cada cuenta.
+
+2. Activar verificación en dos pasos (2FA): añade un segundo código al iniciar sesión.
+
+3. Desconfiar de enlaces sospechosos: no abras links ni archivos de desconocidos.

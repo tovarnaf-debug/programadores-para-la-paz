@@ -1,0 +1,9 @@
+uname -a:
+Es como una "tarjeta de identidad" detallada del sistema operativo. 
+Cuando se ejecuta, la computadora entrega un resumen técnico que incluye el nombre del núcleo (kernel), 
+la versión específica que se está corriendo, la fecha de compilación y la arquitectura del procesador.
+
+whoami:
+Es un comando vital. Su función es decir
+ exactamente qué usuario se está utilizando 
+en ese preciso instante dentro de la terminal.
