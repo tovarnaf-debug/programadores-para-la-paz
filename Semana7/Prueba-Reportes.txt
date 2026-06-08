@@ -1,0 +1,5 @@
+​"Al realizar la petición POST mediante Postman, el servidor recibe los datos en formato JSON,
+ los asigna a un objeto con un ID autoincrementado y los guarda dentro del array
+ 'reportes' en la memoria del servidor. Al ejecutar posteriormente la ruta GET,
+ el servidor responde con un array que contiene todos los objetos (reportes) que han sido almacenados,
+ permitiendo visualizar la persistencia temporal de los datos mientras el servidor esté activo."
