@@ -1,0 +1,9 @@
+Es importante que las plataformas reciban reportes estructurados porque permite organizar la información de forma clara y uniforme.
+Cuando los ciudadanos envían datos con campos definidos (tipo, descripción, ubicación), el sistema puede procesarlos automáticamente sin ambigüedades.
+Esto facilita clasificar incidencias, priorizarlas y asignarlas al área responsable con mayor rapidez.
+La estructura también reduce errores de interpretación que surgen cuando la información llega en texto libre o desordenado.
+Además, permite integrar los reportes con bases de datos, mapas y sistemas de seguimiento para dar respuesta oportuna a la comunidad.
+Los datos estructurados pueden analizarse para detectar patrones, como zonas con más problemas de infraestructura.
+Así se fortalece la participación ciudadana, porque las personas ven que su aporte se registra y atiende de manera sistemática.
+En contextos de paz y convivencia, reportes bien organizados ayudan a identificar riesgos a tiempo y coordinar acciones entre instituciones.
+Finalmente, un formato común (como JSON en una API) hace posible que distintas aplicaciones y canales compartan la misma información de forma confiable.
