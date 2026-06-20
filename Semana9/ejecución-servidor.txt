@@ -1,0 +1,7 @@
+Cuando se ejecuta "node server.js" y se busca: "http://localhost:3000" la respuesta de la pagina es: "Servidor activo y funcionando"
+
+Cuando se busca: "http://localhost:3000/estado" la respuesta de la pagina es:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

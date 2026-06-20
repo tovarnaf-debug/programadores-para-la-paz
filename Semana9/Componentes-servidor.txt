@@ -1,0 +1,19 @@
+Sistema operativo
+Es la base de la computadora (por ejemplo, Windows). Se encarga de manejar la memoria, los archivos y los programas que se ejecutan.
+Sin el sistema operativo, Node.js y el servidor no podrían funcionar, porque no habría dónde correr.
+
+Node.js
+Es el programa que permite ejecutar JavaScript fuera del navegador, directamente en la computadora.
+Gracias a Node.js, podemos correr server.js con el comando "node server.js" y hacer que responda a peticiones de internet.
+
+Aplicación server.js
+Es el archivo que creamos con las instrucciones del servidor. Define qué debe responder cuando alguien visita ciertas direcciones, como la página principal o /estado.
+En nuestro caso, muestra un mensaje de texto o un JSON con el estado del servicio, según la ruta que se consulte.
+
+Puerto
+Es como un número de puerta por donde entra y sale la información del servidor. En este proyecto usamos el puerto 3000.
+Cuando abrimos "http://localhost:3000" en el navegador, estamos pidiendo datos justo por esa puerta.
+
+Logs
+Son los mensajes que el servidor escribe en la consola mientras funciona, por ejemplo: "Servidor ejecutándose en puerto 3000".
+Sirven para confirmar que todo arrancó bien y para revisar qué está pasando si algo falla.
