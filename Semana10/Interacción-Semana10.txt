@@ -1,0 +1,27 @@
+¿Qué 2 tareas de las que aparecen en Backlog-Semana10.txt harías primero?
+
+1. Como ciudadano, quiero registrar una incidencia con fotos y ubicación.
+2. Como coordinador, quiero recibir una alerta automática en Telegram cuando se registre un nuevo reporte.
+
+
+¿Por qué son las más importantes?
+
+La primera tarea es la base del sistema de veeduría: si los ciudadanos no pueden reportar incidencias con evidencia (fotos) y contexto (ubicación), 
+no hay información que vigilar ni casos que atender. Sin este flujo, el resto del backlog no tiene sentido.
+
+La segunda tarea conecta el reporte con la acción inmediata del equipo. Registrar un caso no basta si nadie se entera a tiempo; la alerta en Telegram 
+permite que el coordinador revise y active el seguimiento en cuanto ocurre el hecho. 
+Juntas, estas dos tareas forman el ciclo mínimo viable: reportar → avisar → actuar.
+
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando cumple lo que promete la historia de usuario, se verificó que funciona en la práctica y quedó documentada
+o integrada de forma que el equipo pueda usarla y mantenerla. No basta con "escribir el código"; debe estar lista para usarse en el flujo real del proyecto.
+
+
+Definición simple de terminado:
+
+1. Cuenta con respaldo
+2. Cumple con los estándares
+3. Fue revisado por un tercero (Dentro del equipo)

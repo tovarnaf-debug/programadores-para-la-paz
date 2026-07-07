@@ -1,0 +1,9 @@
+Como coordinador, quiero recibir una alerta automática en Telegram cuando se registre un nuevo reporte.
+
+Como administrador, quiero gestionar los permisos de acceso de los usuarios.
+
+Como miembro del equipo, quiero consultar los reportes en la base de datos.
+
+Como ciudadano, quiero registrar una incidencia con fotos y ubicación.
+
+Como ciudadano, quiero recibir una notificación de actualización sobre el estado de mi denuncia.

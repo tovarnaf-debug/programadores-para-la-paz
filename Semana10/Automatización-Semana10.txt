@@ -1,0 +1,8 @@
+Evento: nuevo reporte registrado.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Nuevo reporte recibido”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones personales, teléfonos, 
+claves, datos sensibles, o datos innecesarios que puedan interferir con el cumplimiento del reporte.
