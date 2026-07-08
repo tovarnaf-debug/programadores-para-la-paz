@@ -1,0 +1,20 @@
+**Interfaz de Usuario - Plataforma de Veeduría Comunitaria**
+
+1. Vista de Causas Disponibles
+* Panel principal que muestra una lista de tarjetas, donde cada tarjeta representa una causa activa.
+* Cada tarjeta incluye: título de la causa, una breve descripción, la ubicación y el contador de apoyos.
+
+
+2. Formulario para Crear una Causa
+* Ubicado en una sección dedicada ("Crear nueva causa").
+* Campos necesarios: Título del proyecto, descripción detallada del problema, selección de ubicación (mapa o texto) y botón "Publicar".
+
+
+3. Interacción de Apoyo
+* Dentro de cada tarjeta de causa, se incluye un botón destacado con la etiqueta "Apoyar causa".
+* Al hacer clic, el botón cambia de color o estado para confirmar el voto del usuario.
+
+
+4. Contador de Apoyos
+* Elemento visual junto al botón de apoyar que se actualiza en tiempo real, mostrando el número total de 
+personas que han respaldado dicha causa.

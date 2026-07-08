@@ -1,0 +1,7 @@
+El login es el proceso mediante el cual una aplicación verifica la identidad de un usuario a través de 
+credenciales, permitiendo acceder a funciones personalizadas. Algunas rutas deben estar protegidas para 
+restringir el acceso exclusivo a áreas administrativas, configuraciones personales o datos sensibles, 
+evitando que usuarios no autorizados alteren el sistema. Por seguridad, nunca debe exponerse públicamente 
+información privada como contraseñas, números de identificación, direcciones exactas, historiales médicos 
+o detalles financieros. Proteger estos datos es esencial para prevenir el robo de identidad, el fraude y 
+garantizar que la plataforma opere bajo estándares de privacidad y confianza.

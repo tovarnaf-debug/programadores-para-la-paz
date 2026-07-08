@@ -1,0 +1,6 @@
+Una plataforma de participación ciudadana requiere una base de datos para organizar y consultar de manera 
+eficiente las incidencias, garantizando que el seguimiento de los problemas comunitarios sea estructurado 
+y transparente. La autenticación de usuarios es indispensable para identificar a quienes participan, 
+permitiendo controlar qué personas pueden acceder a funciones específicas y asegurar la validez de los 
+reportes realizados. Por otro lado, la protección de información sensible es un principio fundamental que 
+evita riesgos de privacidad o el uso indebido de los datos personales compartidos por los ciudadanos.

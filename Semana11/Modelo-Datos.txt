@@ -1,0 +1,35 @@
+Entidad: Usuario
+
+Campos principales:
+
+id: 1025
+
+nombre_completo: Juan Pérez García
+
+correo_electronico: juan.perez@ejemplo.com
+
+fecha_registro: 2026-07-08
+
+Propósito:
+Almacenar la información de las personas registradas en la plataforma para gestionar su autenticación y permitirles 
+participar en las causas.
+
+Entidad: Reporte
+
+Campos principales:
+
+id: 5001
+
+usuario_id: 1025
+
+tipo_problema: Infraestructura vial
+
+descripcion: Hueco de gran tamaño en la carrera 10 con calle 20.
+
+ubicacion: Cartagena, sector Centro Histórico
+
+estado: En revisión
+
+Propósito:
+Registrar los incidentes o problemas reportados por los ciudadanos para que el equipo de veeduría pueda realizarles 
+un seguimiento, verificar la evidencia y gestionar una solución.
