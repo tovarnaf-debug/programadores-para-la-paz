@@ -1,0 +1,7 @@
+Evento: nueva causa registrada sobre infraestructura vial
+
+Mensaje: "Atención: Se ha registrado una nueva solicitud de reparación para la causa: Reparación de luminarias
+en el Parque Central"
+
+Información que no debe enviarse: nombres completos, números de identificación, números de contacto privados, 
+direcciones exactas de residencias o datos personales sensibles.

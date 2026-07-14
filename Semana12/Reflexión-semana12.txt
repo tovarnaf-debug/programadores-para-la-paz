@@ -1,0 +1,8 @@
+Durante el curso aprendí que el uso de la tecnología para fortalecer la participación ciudadana requiere 
+integrar herramientas que faciliten la organización comunitaria, como el uso de bases de datos para 
+estructurar derechos de petición y la automatización para agilizar la gestión de reportes. Comprendí que, para lograr
+un verdadero impacto social y generar confianza entre los ciudadanos y las instituciones, es indispensable 
+implementar prácticas sólidas de autenticación de usuarios y protección de datos sensibles, garantizando 
+siempre la seguridad y la privacidad de la información. Este enfoque técnico y ético permite transformar las 
+intenciones colectivas en acciones concretas, haciendo que el control social sea más eficiente, transparente 
+y sostenible a través de soluciones enfocadas en las necesidades reales de las personas.

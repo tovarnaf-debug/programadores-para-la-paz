@@ -1,0 +1,18 @@
+Entidad: Causa
+id: 101
+titulo: Reparación de luminarias en el Parque Central
+descripcion: Las luces del parque han estado dañadas por más de un mes, generando inseguridad en las noches.
+fecha: 2026-07-10
+
+Propósito: Almacenar la información detallada de las problemáticas o proyectos comunitarios que los 
+ciudadanos desean visibilizar y registrar en la plataforma.
+
+
+Entidad: Apoyo
+id: 5001
+causa_id: 101
+nombre: Carlos Eduardo Mendoza
+fecha: 2026-07-14
+
+Propósito: Registrar los respaldos individuales que recibe cada causa, permitiendo llevar un control 
+preciso de la participación ciudadana y medir el nivel de interés en cada iniciativa.

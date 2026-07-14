@@ -1,0 +1,11 @@
+1. Un ciudadano identifica un problema en su sector y completa un formulario de reporte en la plataforma.
+
+2. El sistema registra la ubicación y los detalles del incidente en la base de datos centralizada.
+
+3. Una herramienta de automatización, como n8n, detecta el nuevo reporte y envía una alerta inmediata a un grupo 
+de Telegram del equipo de veeduría.
+
+4. El equipo revisa la información recibida y actualiza el estado del reporte a "En atención" dentro de la 
+plataforma.
+
+5. El sistema envía una notificación automática al ciudadano para informarle que su caso ya está siendo gestionado.
